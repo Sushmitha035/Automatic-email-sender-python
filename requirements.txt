@@ -1,0 +1,21 @@
+# install the following libraries by writing "pip install -r requirements.txt" in your terminal
+
+
+pandas  # import pandas as pd
+python-dotenv # from dotenv import load_dotenv
+APScheduler # from apscheduler.schedulers.background import BackgroundScheduler
+Datetime # from datetime import datetime
+python-email # from email.message import EmailMessage *and* # from email.utils import formataddr
+pathlib  # from pathlib import Path
+
+
+
+
+
+
+
+
+
+
+
+
